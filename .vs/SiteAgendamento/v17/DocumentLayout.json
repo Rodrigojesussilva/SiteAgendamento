@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\Desktop\\SiteAgendamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66FD0F9-B27E-4A22-812F-5480B447DC3A}|SiteAgendamento.csproj|c:\\users\\professor\\desktop\\siteagendamento\\views\\shared\\_layout_gerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E66FD0F9-B27E-4A22-812F-5480B447DC3A}|SiteAgendamento.csproj|solutionrelative:views\\shared\\_layout_gerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout_Gerenciamento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\SiteAgendamento\\Views\\Shared\\_Layout_Gerenciamento.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout_Gerenciamento.cshtml",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\SiteAgendamento\\Views\\Shared\\_Layout_Gerenciamento.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout_Gerenciamento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:31:35.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
